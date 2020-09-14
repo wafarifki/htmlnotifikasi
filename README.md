@@ -1,6 +1,8 @@
 # htmlnotifikasi
 ini adalah project saya yang kedua, yaitu html notifikasi. html notifikasi adalah library untuk menampilkan toast notifikasi
 
+demo : https://wafarifki.github.io/htmlnotifikasi
+
 #Instruksi Instalasi
 Tambahkan cssnotifikasi.css di header website anda. (Wajib)
 
