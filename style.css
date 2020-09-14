@@ -1,0 +1,114 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #f5f5f5;
+    color: #404040;
+}
+
+.kiri {
+    float: left;
+    margin-left: 6%;
+    margin-right: 2%;
+}
+
+.kanan {
+    float: right;
+    margin-right: 2%;
+    margin-left: 6%;
+}
+
+.tombolsukses {
+    background: #519872;
+    color: #f5f5f5;
+    padding: 10px;
+    font-weight: bold;
+    box-shadow: none;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+}
+
+.tombolsukses:hover {
+    background: #3d835d;
+    color: #f5f5f5;
+    padding: 10px;
+    font-weight: bold;
+    box-shadow: none;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.tombolerror {
+    background: #d92027;
+    color: #f5f5f5;
+    padding: 10px;
+    font-weight: bold;
+    box-shadow: none;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+}
+
+.tombolerror:hover {
+    background: #900d0d;
+    color: #f5f5f5;
+    padding: 10px;
+    font-weight: bold;
+    box-shadow: none;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.tombolperingatan {
+    background: #ffa931;
+    color: #f5f5f5;
+    padding: 10px;
+    font-weight: bold;
+    box-shadow: none;
+    border: none;
+    font-size: 12.2px;
+    outline: none;
+    border-radius: 10px;
+}
+
+.tombolperingatan:hover {
+    background: #e49425;
+    color: #f5f5f5;
+    padding: 10px;
+    font-weight: bold;
+    box-shadow: none;
+    border: none;
+    font-size: 12.2px;
+    outline: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.tombolkustom {
+    background: #336d88;
+    color: #f5f5f5;
+    padding: 10px;
+    font-weight: bold;
+    box-shadow: none;
+    border: none;
+    font-size: 12.2px;
+    outline: none;
+    border-radius: 10px;
+}
+
+.tombolkustom:hover {
+    background: #383e56;
+    color: #f5f5f5;
+    padding: 10px;
+    font-weight: bold;
+    box-shadow: none;
+    border: none;
+    font-size: 12.2px;
+    outline: none;
+    border-radius: 10px;
+    cursor: pointer;
+}

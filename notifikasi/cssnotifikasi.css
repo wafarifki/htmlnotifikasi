@@ -1,0 +1,149 @@
+.jq-notifikasi-wrap {
+    display: block;
+    position: fixed;
+    width: 230px;
+    pointer-events: none !important;
+    margin: 0;
+    padding: 0;
+    letter-spacing: normal;
+    z-index: 989898 !important;
+}
+
+.jq-notifikasi-wrap * {
+    margin: 0;
+    padding: 0;
+}
+
+.jq-notifikasi-wrap.bottom-left {
+    bottom: 20px;
+    left: 20px;
+}
+
+.jq-notifikasi-wrap.bottom-right {
+    bottom: 20px;
+    right: 40px;
+}
+
+.jq-notifikasi-wrap.top-left {
+    top: 20px;
+    left: 20px;
+}
+
+.jq-notifikasi-wrap.top-right {
+    top: 20px;
+    right: 40px;
+}
+
+.jq-notifikasi-single {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin: 0 0 5px;
+    border-radius: 6px;
+    font-size: 12px;
+    font-family: arial, sans-serif;
+    line-height: 17px;
+    position: relative;
+    pointer-events: all !important;
+    background-color: #444444;
+    color: white;
+}
+
+.jq-notifikasi-single h2 {
+    font-family: arial, sans-serif;
+    font-size: 14px;
+    margin: 0 0 7px;
+    background: none;
+    color: inherit;
+    line-height: inherit;
+    letter-spacing: normal;
+}
+
+.jq-notifikasi-single a {
+    color: #eee;
+    text-decoration: none;
+    font-weight: bold;
+    border-bottom: 1px solid white;
+    padding-bottom: 3px;
+    font-size: 12px;
+}
+
+.jq-notifikasi-single ul {
+    margin: 0 0 0 15px;
+    background: none;
+    padding: 0;
+}
+
+.jq-notifikasi-single ul li {
+    list-style-type: disc !important;
+    line-height: 17px;
+    background: none;
+    margin: 0;
+    padding: 0;
+    letter-spacing: normal;
+}
+
+.close-jq-notifikasi-single {
+    position: absolute;
+    top: 3px;
+    right: 7px;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.jq-notifikasi-loader {
+    display: block;
+    position: absolute;
+    top: -2px;
+    height: 5px;
+    width: 0;
+    left: 0;
+    border-radius: 5px;
+    background: red;
+}
+
+.jq-notifikasi-loaded {
+    width: 100%;
+}
+
+.jq-has-ikon {
+    padding: 10px 10px 10px 50px;
+    background-repeat: no-repeat;
+    background-position: 10px;
+}
+
+.jq-ikon-kustom {
+    background-image: url("/image/kustom.png");
+    /*gambar ikon notifikasi*/
+    background-color: #31708f;
+    /*warna background notifikasi*/
+    color: #d9edf7;
+    /*warna teks notifikasi*/
+}
+
+.jq-ikon-peringatan {
+    background-image: url("/image/peringatan.png");
+    /*gambar ikon notifikasi*/
+    background-color: #8a6d3b;
+    /*warna background notifikasi*/
+    color: #fcf8e3;
+    /*warna teks notifikasi*/
+}
+
+.jq-ikon-eror {
+    background-image: url("/image/eror.png");
+    /*gambar ikon notifikasi*/
+    background-color: #a94442;
+    /*warna background notifikasi*/
+    color: #f2dede;
+    /*warna teks notifikasi*/
+}
+
+.jq-ikon-sukses {
+    background-image: url("/image/sukses.png");
+    /*gambar ikon notifikasi*/
+    background-color: #3c763d;
+    /*warna background notifikasi*/
+    color: #dff0d8;
+    /*warna teks notifikasi*/
+}
