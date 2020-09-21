@@ -113,7 +113,7 @@
 }
 
 .jq-ikon-kustom {
-    background-image: url("/image/kustom.png");
+    background-image: url("https://raw.githubusercontent.com/wafarifki/htmlnotifikasi/master/image/kustom.png");
     /*gambar ikon notifikasi*/
     background-color: #31708f;
     /*warna background notifikasi*/
@@ -122,7 +122,7 @@
 }
 
 .jq-ikon-peringatan {
-    background-image: url("/image/peringatan.png");
+    background-image: url("https://raw.githubusercontent.com/wafarifki/htmlnotifikasi/master/image/peringatan.png");
     /*gambar ikon notifikasi*/
     background-color: #8a6d3b;
     /*warna background notifikasi*/
@@ -131,7 +131,7 @@
 }
 
 .jq-ikon-eror {
-    background-image: url("/image/eror.png");
+    background-image: url("https://raw.githubusercontent.com/wafarifki/htmlnotifikasi/master/image/eror.png");
     /*gambar ikon notifikasi*/
     background-color: #a94442;
     /*warna background notifikasi*/
@@ -140,7 +140,7 @@
 }
 
 .jq-ikon-sukses {
-    background-image: url("/image/sukses.png");
+    background-image: url("https://raw.githubusercontent.com/wafarifki/htmlnotifikasi/master/image/sukses.png");
     /*gambar ikon notifikasi*/
     background-color: #3c763d;
     /*warna background notifikasi*/
