@@ -3,37 +3,45 @@ ini adalah project saya yang kedua, yaitu html notifikasi. html notifikasi adala
 
 demo : https://wafarifki.github.io/htmlnotifikasi
 
-#Instruksi Instalasi
-Tambahkan cssnotifikasi.css di header website anda. (Wajib)
+#Instruksi Instalasi<br>
+Tambahkan <b>cssnotifikasi.css</b> di header website anda. (Wajib)
 
-Tambahkan jsnotifikasi.js tepat sebelum tag body. (Wajib)
+Tambahkan <b>jsnotifikasi.js</b> tepat sebelum tag body. (Wajib)
 
-Tambahkan tampilnotifikasi.js tepat sebelum tag body. (Wajib)
+Tambahkan <b>tampilnotifikasi.js</b> tepat sebelum tag body. (Wajib)
 
 
-edit file tampilnotifikasi.js untuk mengatur notifikasi anda.
+edit file <b>tampilnotifikasi.js</b> untuk mengatur notifikasi anda.
 
-edit file cssnotifikasi.css untuk mengatur gaya notifikasi anda,
+edit file <b>cssnotifikasi.css</b> untuk mengatur gaya notifikasi anda,
 anda bisa mengubah ikon default notifikasi.
 
 #Informasi
 
-judulnotifikasi : judul notifikasi anda
+<b>judulnotifikasi</b>: judul notifikasi anda
 
-text: isi notifikasi anda
+<b>text</b>: isi notifikasi anda
 
-ikon: ikon notifikasi anda
+<b>ikon</b>: ikon notifikasi anda
 
-transisi: pengaturan efek notifikasi, terdapat beberapa pilihan efek diantaranya slide efek, fade efek, plain efek
+<b>transisi</b>: pengaturan efek notifikasi, terdapat beberapa pilihan efek diantaranya slide efek, fade efek, plain efek
 
-AutoTutup: otomatis menutup notifikasi, true untuk iya, false untuk tidak
+<b>AutoTutup</b>: otomatis menutup notifikasi, true untuk iya, false untuk tidak
 
-hideAfter : atur berapa lama notifikasi anda tampil, atur waktu dengan format milisecond
+<b>hideAfter</b>: atur berapa lama notifikasi anda tampil, atur waktu dengan format milisecond
 
-posisi: atur posisi notifikasi anda
+<b>posisi</b>: atur posisi notifikasi anda
 
-textAlign: atur perataan teks notifikasi anda, terdapat beberapa pilihan perataan teks notifikasi diantaranya left, center, right
+<b>textAlign</b>: atur perataan teks notifikasi anda, terdapat beberapa pilihan perataan teks notifikasi diantaranya left, center, right
 
-loader: tampilkan efek loading, true untuk menampilkan, false untuk menyembunyikan
+<b>loader</b>: tampilkan efek loading, true untuk menampilkan, false untuk menyembunyikan
 
-loaderBg: warna loading, harus menggunakan hexcolor code, temukan lebih banyak warna di https://colorhunt.co
+<b>loaderBg</b>: warna loading, harus menggunakan hexcolor code, temukan lebih banyak warna di https://colorhunt.co
+
+# Let's connect with me!
+<p>
+    <a href="https://wafarifki.github.io" target="_blank"><img src="https://img.shields.io/badge/Website-https://wafarifki.github.io-blue?" /></a>
+    <a href="https://www.linkedin.com/in/wafa-rifqi-anafin-553b591b7/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-WafaRifkiAnafin_-blue" /></a>
+    <a href="https://facebook.com/wafarifkianafin" target="_blank"><img src="https://img.shields.io/badge/Facebook-wafarifkianafin-blue" /></a>
+    <a href="https://instagram.com/wafarifki_" target="_blank"><img src="https://img.shields.io/badge/Instagram-@wafarifki_-blue" /></a>
+</p>
